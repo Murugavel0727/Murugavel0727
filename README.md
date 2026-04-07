@@ -1,4 +1,4 @@
-# Hi 👋 I'm Murugavel (Murugavel0727)
+# Hi 👋 I'm Murugavel 
 
 I'm an engineering student passionate about building practical software and learning new technologies. I enjoy working on full-stack apps, automation, and projects that help me grow as a developer.
 
