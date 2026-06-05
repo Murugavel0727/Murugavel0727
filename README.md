@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Murugavel%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20IoT%20%26%20AI%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&animation=twinkling" />
+
+<h1 align="center">👋 Hi, I'm Murugavel N</h1>
+<h3 align="center">Full Stack Developer · Competitive Programmer · IoT & AI Builder</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%21+I'm+Murugavel+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Competitive+Programmer+%7C+LeetCode+1426+%7C+220%2B+Problems;IoT+%26+AI+Builder+%7C+YOLOv8+%7C+Firebase+%7C+AWS;Pre-Final+Year+CS+Engineer+%40+KIT+Coimbatore" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%21+I%27m+Murugavel+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Competitive+Programmer+%7C+LeetCode+1426+%7C+220%2B+Problems;IoT+%26+AI+Builder+%7C+YOLOv8+%7C+Firebase+%7C+AWS;Pre-Final+Year+CS+Engineer+%40+KIT+Coimbatore" alt="Typing SVG" />
   </a>
 </p>
 
@@ -139,7 +140,7 @@ public class Murugavel {
 ## 💼 Work Experience
 
 <details>
-  <summary><b>🏢 Full Stack Development Intern — LearnLogicify Technologies LLP · Coimbatore, India (Offline) · Jun 2025</b></summary>
+  <summary><b>🏢 Full Stack Development Intern — LearnLogicify Technologies LLP · Coimbatore, India · Jun 2025</b></summary>
   <br/>
 
   > `HTML` `CSS` `React.js` `Data Visualization` `Data Analysis`
@@ -152,7 +153,7 @@ public class Murugavel {
 </details>
 
 <details>
-  <summary><b>🏢 Data Analytics Intern — Nxtlogic Software Solutions · Coimbatore, India (Online) · May–Jun 2025</b></summary>
+  <summary><b>🏢 Data Analytics Intern — Nxtlogic Software Solutions · Coimbatore, India · May–Jun 2025</b></summary>
   <br/>
 
   > `Node.js` `React.js` `MongoDB` `REST APIs` `SDLC` `Collaborative Coding`
@@ -165,7 +166,7 @@ public class Murugavel {
 </details>
 
 <details>
-  <summary><b>🏢 Digital Marketing Intern — Lazeno Consultancy Services · Coimbatore, India (Online) · Dec 2025</b></summary>
+  <summary><b>🏢 Digital Marketing Intern — Lazeno Consultancy Services · Coimbatore, India · Dec 2025</b></summary>
   <br/>
 
   > `Email Marketing` `Digital Communication` `Customer Engagement` `Marketing Strategy`
@@ -185,9 +186,9 @@ public class Murugavel {
 
 | 🔗 Project | 🛠️ Stack | ✨ Highlights |
 |:-----------|:---------|:-------------|
-| **🚑 Smart Ambulance Traffic System** | Python · OpenCV · YOLOv8 · IoT · Firebase · AWS | Real-time ambulance detection via YOLO object detection; automated traffic signal switching with microcontroller-based IoT modules; cloud monitoring via Firebase for live traffic updates |
-| **💡 Smart Street Light System** | IoT · ESP32/NodeMCU · LDR · PIR · MQTT · Firebase | Automatic brightness control via LDR & PIR sensors reducing power usage; ESP32 module for real-time cloud status; remote scheduling via MQTT/Firebase |
-| **✈️ Travella – Travel Booking Website** | React.js · Node.js · MongoDB · Express.js | Responsive travel booking platform with hotel search & trip planning; secure REST APIs for auth & trip data; clean React UI displaying destinations and travel packages |
+| **🚑 Smart Ambulance Traffic System** | Python · OpenCV · YOLOv8 · IoT · Firebase · AWS | Real-time ambulance detection via YOLO; automated signal switching with microcontroller IoT modules; Firebase cloud monitoring for live traffic updates |
+| **💡 Smart Street Light System** | IoT · ESP32/NodeMCU · LDR · PIR · MQTT · Firebase | Auto brightness control via LDR & PIR sensors; ESP32 real-time cloud status; remote scheduling via MQTT/Firebase |
+| **✈️ Travella – Travel Booking Website** | React.js · Node.js · MongoDB · Express.js | Responsive travel booking platform; REST APIs for auth & trip data; clean React UI for destinations and travel packages |
 
 </div>
 
@@ -199,11 +200,11 @@ public class Murugavel {
 
 | 🎖️ | Achievement | Details |
 |:---:|:-----------|:--------|
-| 🏛️ | **BITS Pilani Innovator Conclave 2025 Finalist** | Qualified for the Final Round at BITS Pilani, Hyderabad among top student innovators nationwide |
-| 🤖 | **Google AI Agents Intensive Hackathon** | Completed 5-day AI Agents Intensive by Google on Kaggle; built a functional AI agent using industry-standard tools |
+| 🏛️ | **BITS Pilani Innovator Conclave 2025 Finalist** | Qualified for Final Round at BITS Pilani, Hyderabad among top student innovators nationwide |
+| 🤖 | **Google AI Agents Intensive Hackathon** | Completed 5-day AI Agents course by Google on Kaggle; built a functional AI agent using industry-standard tools |
 | ⚡ | **LeetCode Max Rating: 1426** | 220+ problems solved · Top 95.15% globally · 100-Day Badge · Highest Rank: 17,124 · 2 Badges |
 | ♟️ | **Codeforces Specialist** | Max Rating: 1200 · Specialist Rank · 300+ problems solved |
-| 🍴 | **CodeChef 1-Star** | Max Rating: 1159 · Division 4 · 245 problems solved · 70+ contests participated · Global Rank: 98,701 |
+| 🍴 | **CodeChef 1-Star** | Max Rating: 1159 · Division 4 · 245 problems solved · 70+ contests · Global Rank: 98,701 |
 
 </div>
 
@@ -244,9 +245,7 @@ public class Murugavel {
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 <p align="center">
   <i>⭐ If you find my work interesting, consider leaving a star on my repos!</i><br/>
