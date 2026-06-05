@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%21+I'm+Murugavel+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Competitive+Programmer+%7C+LeetCode+1426+%7C+220%2B+Problems;IoT+%26+AI+Builder+%7C+YOLOv8+%7C+Firebase+%7C+AWS;Pre-Final+Year+CS+Engineer+%40+KIT+Coimbatore" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%21+I'm+Murugavel+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Competitive+Programmer+%7C+LeetCode+1426+%7C+220%2B+Problems;IoT+%26+AI+Builder+%7C+YOLOv8+%7C+Firebase+%7C+AWS;Final+Year+CS+Engineer+%40+KIT+Coimbatore" alt="Typing SVG" />
   </a>
 </p>
 
