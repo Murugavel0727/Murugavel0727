@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%21+I'm+Murugavel+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Competitive+Programmer+%7C+LeetCode+1426+%7C+220%2B+Problems;IoT+%26+AI+Builder+%7C+YOLOv8+%7C+Firebase+%7C+AWS;Final+Year+CS+Engineer+%40+KIT+Coimbatore" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%21+I'm+Murugavel+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Competitive+Programmer+%7C+LeetCode+1426+%7C+220%2B+Problems;IoT+%26+AI+Builder+%7C+YOLOv8+%7C+Firebase+%7C+AWS;Pre-Final+Year+CS+Engineer+%40+KIT+Coimbatore" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,36 +19,40 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```python
-class Murugavel:
-    def __init__(self):
-        self.name         = "Murugavel N"
-        self.location     = "Coimbatore, Tamil Nadu, India"
-        self.email        = "murugaveleng33@gmail.com"
-        self.degree       = "B.E. Computer Science & Engineering"
-        self.college      = "KIT - Kalaignarkarunanidhi Institute of Technology"
-        self.year         = "Pre-Final Year (2023–2027)"
-        self.cgpa         = "7.2 / 10.0"
+```java
+public class Murugavel {
 
-        self.stack = [
-            "React.js", "Node.js", "Express.js",
-            "Python", "Java", "C++", "MongoDB",
-            "FastAPI", "Spring Boot", "Docker"
-        ]
+    String name        = "Murugavel N";
+    String location    = "Coimbatore, Tamil Nadu, India";
+    String email       = "murugaveleng33@gmail.com";
+    String degree      = "B.E. Computer Science & Engineering";
+    String college     = "KIT - Kalaignarkarunanidhi Institute of Technology";
+    String year        = "Pre-Final Year (2023 – 2027)";
+    String cgpa        = "7.2 / 10.0";
 
-        self.currently_learning = [
-            "System Design",
-            "Cloud Architecture (AWS)",
-            "Advanced DSA & Competitive Programming"
-        ]
+    String[] stack = {
+        "Java", "Spring Boot", "React.js",
+        "Node.js", "Express.js", "Python",
+        "C++", "MongoDB", "Docker", "AWS"
+    };
 
-        self.fun_fact = "I automate traffic lights with YOLO & IoT 🚑"
+    String[] currentlyLearning = {
+        "System Design & Microservices",
+        "Cloud Architecture (AWS)",
+        "Advanced DSA & Competitive Programming"
+    };
 
-    def motto(self):
-        return "Build. Break. Learn. Repeat. 🚀"
+    String funFact = "I automate traffic lights with YOLO & IoT 🚑";
 
-me = Murugavel()
-print(me.motto())
+    public String motto() {
+        return "Build. Break. Learn. Repeat. 🚀";
+    }
+
+    public static void main(String[] args) {
+        Murugavel me = new Murugavel();
+        System.out.println(me.motto());
+    }
+}
 ```
 
 <br clear="right"/>
@@ -99,10 +103,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/Murugavel07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murugavel07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murugavel07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400" />
   </a>
   <a href="https://github.com/Murugavel07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murugavel07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murugavel07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" />
   </a>
 </div>
 
@@ -111,7 +115,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Murugavel07&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Murugavel07&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
